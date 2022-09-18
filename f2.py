@@ -1,1 +1,1 @@
-Hola Amigos
+print ('Hola Amigos')

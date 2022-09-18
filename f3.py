@@ -1,1 +1,1 @@
-This is Sparta
+print ('This is Sparta')
